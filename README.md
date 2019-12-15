@@ -2,9 +2,9 @@
 
 # Portfólio de Data Science
 
-Depois de trabalhar em várias áreas da Ciencia da Computação, desde programação em várias linguagens, desenvolvimento de sistemas diversos, e experiencia como analista, supervisor e gerente de projetos, agora começo novo desafio de colocar em prática todo aprendizado em Data Science e Machine Learning.
+Depois de trabalhar em várias áreas da Ciência da Computação, desde programação em várias linguagens, desenvolvimento de sistemas diversos, e experiência como analista, supervisor e gerente de projetos, agora começo novo desafio de colocar em prática todo aprendizado em Data Science e Machine Learning.
 
-Aqui vou regsitrar um índice geral para os projeto que vou publicar no meu blog.
+Aqui vou teremos um índice geral para os projeto que vou publicar no meu blog.
 
 Maiores informações em:
 
@@ -13,17 +13,13 @@ Maiores informações em:
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Nome do Projeto 1](https://github.com/carlosfab/)
-* **PROJETO 2:**  [Nome do Projeto 2](https://github.com/carlosfab/)
+* [Onde alugar apartamento pelo Airbnb em Lisboa, Portugal?](https://github.com/helderam/)
+
 
 ---
 
 ### Sobre Mim:
 
-Sou Carlos Melo, Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Também sou o autor do *blog* [sigmoidal.ai](http://sigmoidal.ai), focado em Data Science, Deep Learning e Pyhton.
+Sou Helder Afonso de Morais, Especialista em Sistemas de Informação - TI pela Universidade Federal de Lavras. Também sou o autor do *blog* [supercidadedigital.com.br](http://supercidadedigital.com.br), focado em Data Science, Machine Learning e Pyhton.
 
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea Canadense.
 
