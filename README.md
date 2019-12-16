@@ -13,13 +13,13 @@ Maiores informações em:
 
 ## Projetos de Data Science
 
-* [Onde alugar apartamento pelo Airbnb em Lisboa, Portugal?](https://github.com/helderam/)
+* [Onde se hospedar pelo Airbnb em Lisboa Portugal](https://github.com/helderam/data-science/blob/master/Onde_se_hospedar_pelo_Airbnb_em_Lisboa_Portugal.ipynb)
 
 
 ---
 
 ### Sobre Mim:
 
-Sou Helder Afonso de Morais, Especialista em Sistemas de Informação - TI pela Universidade Federal de Lavras. Também sou o autor do *blog* [supercidadedigital.com.br](http://supercidadedigital.com.br), focado em Data Science, Machine Learning e Pyhton.
+Sou Helder Afonso de Morais, Especialista em Sistemas de Informação - TI pela Universidade Federal de Lavras. Também sou o autor do *blog* [supercidadedigital.com.br](http://supercidadedigital.com.br/ds), focado em Data Science, Machine Learning e Pyhton.
 
 
